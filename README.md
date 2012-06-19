@@ -22,3 +22,6 @@ Content on each card
 sample map in map.svg
 
 http://www.nihilogic.dk/labs/canvas2image/
+
+# Credits
+- facts and images from cia world fact book

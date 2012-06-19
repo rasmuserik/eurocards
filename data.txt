@@ -1,376 +1,376 @@
 al
-albania:       Age structure:	0-14 years: 24.1% (male 454,622/female 413,698) <br />
-albania:       Area:	total: 28,748 sq km <br />
-albania:       GDP - per capita (PPP):	$5,500 (2007 est.) <br />
-albania:       highest point: Maja e Korabit (Golem Korab) 2,764 m <br />
-albania:       Life expectancy at birth:	total population: 77.6 years <br />
-albania:<td>Population:	3,600,523 (July 2007 est.) <br />
-albania:       Total fertility rate:	2.03 children born/woman (2007 est.) <br />
+albania:       0-14: 24.1
+albania:       Area: 28748
+albania:       GDP - per capita (PPP):	5500
+albania:       highest point: Maja e Korabit (Golem Korab) 2764
+albania:       Life expectancy at birth:	77.6
+albania:      Population:	3600523
+albania:       Total fertility rate:	2.03
 an
-andorra:      Age structure:	0-14 years: 14.5% (male 5,433/female 4,984) <br />
-andorra:      Area:	total: 468 sq km <br />
-andorra:      GDP - per capita (PPP):	$38,800 (2005) <br />
-andorra:      highest point: Coma Pedrosa 2,946 m <br />
-andorra:      Life expectancy at birth:	total population: 83.52 years <br />
-andorra:<td>Population:	71,822 (July 2007 est.) <br />
-andorra:      Total fertility rate:	1.31 children born/woman (2007 est.) <br />
+andorra:      0-14: 14.5
+andorra:      Area: 468
+andorra:      GDP - per capita (PPP):	38800
+andorra:      highest point: Coma Pedrosa 2946
+andorra:      Life expectancy at birth:	83.52
+andorra:      Population:	71822
+andorra:      Total fertility rate:	1.31
 au
-austria:      Age structure:	0-14 years: 15.1% (male 633,375/female 603,459) <br />
-austria:      Area:	total: 83,870 sq km <br />
-austria:      GDP - per capita (PPP):	$39,000 (2007 est.) <br />
-austria:      highest point: Grossglockner 3,798 m <br />
-austria:      Life expectancy at birth:	total population: 79.21 years <br />
-austria:<td>Population:	8,199,783 (July 2007 est.) <br />
-austria:      Total fertility rate:	1.37 children born/woman (2007 est.) <br />
+austria:      0-14: 15.1
+austria:      Area: 83870
+austria:      GDP - per capita (PPP):	39000
+austria:      highest point: Grossglockner 3798
+austria:      Life expectancy at birth:	79.21
+austria:      Population:	8199783
+austria:      Total fertility rate:	1.37
 aj
-azerbaijan:      Age structure:	0-14 years: 25.4% (male 1,086,271/female 975,100) <br />
-azerbaijan:Area:	total: 86,600 sq km <br />
-azerbaijan:      GDP - per capita (PPP):	$9,000 (2007 est.) <br />
-azerbaijan:highest point: Bazarduzu Dagi 4,485 m <br />
-azerbaijan:      Life expectancy at birth:	total population: 65.96 years <br />
-azerbaijan:<td>Population:	8,120,247 (July 2007 est.) <br />
-azerbaijan:      Total fertility rate:	2.05 children born/woman (2007 est.) <br />
+azerbaijan:      0-14: 25.4
+azerbaijan:Area: 86600
+azerbaijan:      GDP - per capita (PPP):	9000
+azerbaijan:highest point: Bazarduzu Dagi 4485
+azerbaijan:      Life expectancy at birth:	65.96
+azerbaijan:      Population:	8120247
+azerbaijan:      Total fertility rate:	2.05
 bo
-belarus:      Age structure:	0-14 years: 14.7% (male 733,010/female 691,734) <br />
-belarus:      Area:	total: 207,600 sq km <br />
-belarus:      GDP - per capita (PPP):	$10,200 (2007 est.) <br />
-belarus:      highest point: Dzyarzhynskaya Hara 346 m <br />
-belarus:      Life expectancy at birth:	total population: 70.05 years <br />
-belarus:<td>Population:	9,724,723 (July 2007 est.) <br />
-belarus:      Total fertility rate:	1.22 children born/woman (2007 est.) <br />
+belarus:      0-14: 14.7
+belarus:      Area: 207600
+belarus:      GDP - per capita (PPP):	10200
+belarus:      highest point: Dzyarzhynskaya Hara 346
+belarus:      Life expectancy at birth:	70.05
+belarus:      Population:	9724723
+belarus:      Total fertility rate:	1.22
 be
-belgium:      Age structure:	0-14 years: 16.5% (male 873,130/female 836,785) <br />
-belgium:      Area:	total: 30,528 sq km <br />
-belgium:      GDP - per capita (PPP):	$36,500 (2007 est.) <br />
-belgium:      highest point: Signal de Botrange 694 m <br />
-belgium:      Life expectancy at birth:	total population: 78.92 years <br />
-belgium:<td>Population:	10,392,226 (July 2007 est.) <br />
-belgium:      Total fertility rate:	1.64 children born/woman (2007 est.) <br />
+belgium:      0-14: 16.5
+belgium:      Area: 30528
+belgium:      GDP - per capita (PPP):	36500
+belgium:      highest point: Signal de Botrange 694
+belgium:      Life expectancy at birth:	78.92
+belgium:      Population:	10392226
+belgium:      Total fertility rate:	1.64
 bk
-bosnia & herzegovina:      Age structure:	0-14 years: 15% (male 353,163/female 331,133) <br />
-bosnia & herzegovina:      Area:	total: 51,129 sq km <br />
-bosnia & herzegovina:      GDP - per capita (PPP):	$6,600 (2007 est.) <br />
-bosnia & herzegovina:      highest point: Maglic 2,386 m <br />
-bosnia & herzegovina:      Life expectancy at birth:	total population: 78.17 years <br />
-bosnia & herzegovina:<td>Population:	4,552,198 (July 2007 est.) <br />
-bosnia & herzegovina:      Total fertility rate:	1.23 children born/woman (2007 est.) <br />
+bosnia & herzegovina:      0-14: 15
+bosnia & herzegovina:      Area: 51129
+bosnia & herzegovina:      GDP - per capita (PPP):	6600
+bosnia & herzegovina:      highest point: Maglic 2386
+bosnia & herzegovina:      Life expectancy at birth:	78.17
+bosnia & herzegovina:      Population:	4552198
+bosnia & herzegovina:      Total fertility rate:	1.23
 bu
-bulgaria:      Age structure:	0-14 years: 13.9% (male 521,117/female 496,022) <br />
-bulgaria:      Area:	total: 110,910 sq km <br />
-bulgaria:      GDP - per capita (PPP):	$11,800 (2007 est.) <br />
-bulgaria:      highest point: Musala 2,925 m <br />
-bulgaria:      Life expectancy at birth:	total population: 72.57 years <br />
-bulgaria:<td>Population:	7,322,858 (July 2007 est.) <br />
-bulgaria:      Total fertility rate:	1.39 children born/woman (2007 est.) <br />
+bulgaria:      0-14: 13.9
+bulgaria:      Area: 110910
+bulgaria:      GDP - per capita (PPP):	11800
+bulgaria:      highest point: Musala 2925
+bulgaria:      Life expectancy at birth:	72.57
+bulgaria:      Population:	7322858
+bulgaria:      Total fertility rate:	1.39
 hr
-croatia:      Age structure:	0-14 years: 16% (male 368,639/female 349,703) <br />
-croatia:      Area:	total: 56,542 sq km <br />
-croatia:      GDP - per capita (PPP):	$15,500 (2007 est.) <br />
-croatia:      highest point: Dinara 1,830 m <br />
-croatia:      Life expectancy at birth:	total population: 74.9 years <br />
-croatia:<td>Population:	4,493,312 (July 2007 est.) <br />
-croatia:      Total fertility rate:	1.41 children born/woman (2007 est.) <br />
+croatia:      0-14: 16
+croatia:      Area: 56542
+croatia:      GDP - per capita (PPP):	15500
+croatia:      highest point: Dinara 1830
+croatia:      Life expectancy at birth:	74.9
+croatia:      Population:	4493312
+croatia:      Total fertility rate:	1.41
 cy
-cyprus:      Age structure:	0-14 years: 19.9% (male 80,273/female 76,826) <br />
-cyprus:      Area:	total: 9,250 sq km (of which 3,355 sq km are in north Cyprus) <br />
-cyprus:      GDP - per capita (PPP):	area under government control: $27,100 <br />
-cyprus:      highest point: Mount Olympus 1,951 m <br />
-cyprus:      Life expectancy at birth:	total population: 77.98 years <br />
-cyprus:<td>Population:	788,457 (July 2007 est.) <br />
-cyprus:      Total fertility rate:	1.8 children born/woman (2007 est.) <br />
+cyprus:      0-14: 19.9
+cyprus:      Area: 9250
+cyprus:      GDP - per capita (PPP):	area under government control: 27100
+cyprus:      highest point: Mount Olympus 1951
+cyprus:      Life expectancy at birth:	77.98
+cyprus:      Population:	788457
+cyprus:      Total fertility rate:	1.8
 ez
-czech republic:      Age structure:	0-14 years: 14.1% (male 738,391/female 698,999) <br />
-czech republic:      Area:	total: 78,866 sq km <br />
-czech republic:      GDP - per capita (PPP):	$24,400 (2007 est.) <br />
-czech republic:      highest point: Snezka 1,602 m <br />
-czech republic:      Life expectancy at birth:	total population: 76.42 years <br />
-czech republic:<td>Population:	10,228,744 (July 2007 est.) <br />
-czech republic:      Total fertility rate:	1.22 children born/woman (2007 est.) <br />
+czech republic:      0-14: 14.1
+czech republic:      Area: 78866
+czech republic:      GDP - per capita (PPP):	24400
+czech republic:      highest point: Snezka 1602
+czech republic:      Life expectancy at birth:	76.42
+czech republic:      Population:	10228744
+czech republic:      Total fertility rate:	1.22
 da
-denmark:      Age structure:	0-14 years: 18.6% (male 520,669/female 494,228) <br />
-denmark:      Area:	total: 43,094 sq km <br />
-denmark:      GDP - per capita (PPP):	$37,400 (2007 est.) <br />
-denmark:      highest point: Yding Skovhoej 173 m <br />
-denmark:      Life expectancy at birth:	total population: 77.96 years <br />
-denmark:<td>Population:	5,468,120 (July 2007 est.) <br />
-denmark:      Total fertility rate:	1.74 children born/woman (2007 est.) <br />
+denmark:      0-14: 18.6
+denmark:      Area: 43094
+denmark:      GDP - per capita (PPP):	37400
+denmark:      highest point: Yding Skovhoej 173
+denmark:      Life expectancy at birth:	77.96
+denmark:      Population:	5468120
+denmark:      Total fertility rate:	1.74
 en
-estonia:      Age structure:	0-14 years: 15% (male 101,430/female 95,658) <br />
-estonia:      Area:	total: 45,226 sq km <br />
-estonia:      GDP - per capita (PPP):	$21,800 (2007 est.) <br />
-estonia:      highest point: Suur Munamagi 318 m <br />
-estonia:      Life expectancy at birth:	total population: 72.3 years <br />
-estonia:<td>Population:	1,315,912 (July 2007 est.) <br />
-estonia:      Total fertility rate:	1.41 children born/woman (2007 est.) <br />
+estonia:      0-14: 15
+estonia:      Area: 45226
+estonia:      GDP - per capita (PPP):	21800
+estonia:      highest point: Suur Munamagi 318
+estonia:      Life expectancy at birth:	72.3
+estonia:      Population:	1315912
+estonia:      Total fertility rate:	1.41
 fo
-faroe islands:      Age structure:	0-14 years: 20.6% (male 4,882/female 4,904) <br />
-faroe islands:      Area:	total: 1,399 sq km <br />
-faroe islands:      GDP - per capita (PPP):	$31,000 (2001 est.) <br />
-faroe islands:      highest point: Slaettaratindur 882 m <br />
-faroe islands:      Life expectancy at birth:	total population: 79.49 years <br />
-faroe islands:<td>Population:	47,511 (July 2007 est.) <br />
-faroe islands:      Total fertility rate:	2.15 children born/woman (2007 est.) <br />
+faroe islands:      0-14: 20.6
+faroe islands:      Area: 1399
+faroe islands:      GDP - per capita (PPP):	31000
+faroe islands:      highest point: Slaettaratindur 882
+faroe islands:      Life expectancy at birth:	79.49
+faroe islands:      Population:	47511
+faroe islands:      Total fertility rate:	2.15
 fi
-finland:      Age structure:	0-14 years: 16.9% (male 449,548/female 433,253) <br />
-finland:      Area:	total: 338,145 sq km <br />
-finland:      GDP - per capita (PPP):	$35,500 (2007 est.) <br />
-finland:      highest point: Haltiatunturi 1,328 m <br />
-finland:      Life expectancy at birth:	total population: 78.66 years <br />
-finland:<td>Population:	5,238,460 (July 2007 est.) <br />
-finland:      Total fertility rate:	1.73 children born/woman (2007 est.) <br />
+finland:      0-14: 16.9
+finland:      Area: 338145
+finland:      GDP - per capita (PPP):	35500
+finland:      highest point: Haltiatunturi 1328
+finland:      Life expectancy at birth:	78.66
+finland:      Population:	5238460
+finland:      Total fertility rate:	1.73
 fr
-france:      Age structure:	0-14 years: 18.6% (male 6,063,181/female 5,776,272) <br />
-france:      Area:	total: 643,427 sq km; 547,030 sq km (metropolitan France) <br />
-france:      GDP - per capita (PPP):	$33,800 (2007 est.) <br />
-france:      highest point: Mont Blanc 4,807 m <br />
-france:      Life expectancy at birth:	total population: 80.59 years <br />
-france:<td>Population:	total: 64,057,790 <br />
-france:      Total fertility rate:	1.98 children born/woman (2007 est.) <br />
+france:      0-14: 18.6
+france:      Area: 643427; 547030 sq k
+france:      GDP - per capita (PPP):	33800
+france:      highest point: Mont Blanc 4807
+france:      Life expectancy at birth:	80.59
+france:      Population: 64057790
+france:      Total fertility rate:	1.98
 gg
-georgia:      Age structure:	0-14 years: 16.7% (male 413,506/female 364,407) <br />
-georgia:      Area:	total: 69,700 sq km <br />
-georgia:      GDP - per capita (PPP):	$4,200 (2007 est.) <br />
-georgia:      highest point: Mt'a Shkhara 5,201 m <br />
-georgia:      Life expectancy at birth:	total population: 76.3 years <br />
-georgia:<td>Population:	4,646,003 (July 2007 est.) <br />
-georgia:      Total fertility rate:	1.42 children born/woman (2007 est.) <br />
-gm
-germany:      Age structure:	0-14 years: 13.9% (male 5,894,724/female 5,590,373) <br />
-germany:      Area:	total: 357,021 sq km <br />
-germany:      GDP - per capita (PPP):	$34,400 (2007 est.) <br />
-germany:      highest point: Zugspitze 2,963 m <br />
-germany:      Life expectancy at birth:	total population: 78.95 years <br />
-germany:<td>Population:	82,400,996 (July 2007 est.) <br />
-germany:      Total fertility rate:	1.4 children born/woman (2007 est.) <br />
+georgia:      0-14: 16.7
+georgia:      Area: 69700
+georgia:      GDP - per capita (PPP):	4200
+georgia:      highest point: Mt'a Shkhara 5201
+georgia:      Life expectancy at birth:	76.3
+georgia:      Population:	4646003
+georgia:      Total fertility rate:	1.42
+g
+germany:      0-14: 13.9
+germany:      Area: 357021
+germany:      GDP - per capita (PPP):	34400
+germany:      highest point: Zugspitze 2963
+germany:      Life expectancy at birth:	78.95
+germany:      Population:	82400996
+germany:      Total fertility rate:	1.4
 gi
-gibraltar:      Age structure:	0-14 years: 17.2% (male 2,460/female 2,343) <br />
-gibraltar:      Area:	total: 6.5 sq km <br />
-gibraltar:      GDP - per capita (PPP):	$38,200 (2005 est.) <br />
-gibraltar:      highest point: Rock of Gibraltar 426 m <br />
-gibraltar:      Life expectancy at birth:	total population: 79.93 years <br />
-gibraltar:<td>Population:	27,967 (July 2007 est.) <br />
-gibraltar:      Total fertility rate:	1.65 children born/woman (2007 est.) <br />
+gibraltar:      0-14: 17.2
+gibraltar:      Area: 6.5
+gibraltar:      GDP - per capita (PPP):	38200
+gibraltar:      highest point: Rock of Gibraltar 426
+gibraltar:      Life expectancy at birth:	79.93
+gibraltar:      Population:	27967
+gibraltar:      Total fertility rate:	1.65
 gr
-greece:      Age structure:	0-14 years: 14.3% (male 789,637/female 742,535) <br />
-greece:      Area:	total: 131,940 sq km <br />
-greece:      GDP - per capita (PPP):	$30,500 (2007 est.) <br />
-greece:      highest point: Mount Olympus 2,917 m <br />
-greece:      Life expectancy at birth:	total population: 79.38 years <br />
-greece:<td>Population:	10,706,290 (July 2007 est.) <br />
-greece:      Total fertility rate:	1.35 children born/woman (2007 est.) <br />
+greece:      0-14: 14.3
+greece:      Area: 131940
+greece:      GDP - per capita (PPP):	30500
+greece:      highest point: Mount Olympus 2917
+greece:      Life expectancy at birth:	79.38
+greece:      Population:	10706290
+greece:      Total fertility rate:	1.35
 hu
-hungary:      Age structure:	0-14 years: 15.3% (male 785,643/female 741,907) <br />
-hungary:      Area:	total: 93,030 sq km <br />
-hungary:      GDP - per capita (PPP):	$19,500 (2007 est.) <br />
-hungary:      highest point: Kekes 1,014 m <br />
-hungary:      Life expectancy at birth:	total population: 72.92 years <br />
-hungary:<td>Population:	9,956,108 (July 2007 est.) <br />
-hungary:      Total fertility rate:	1.33 children born/woman (2007 est.) <br />
+hungary:      0-14: 15.3
+hungary:      Area: 93030
+hungary:      GDP - per capita (PPP):	19500
+hungary:      highest point: Kekes 1014
+hungary:      Life expectancy at birth:	72.92
+hungary:      Population:	9956108
+hungary:      Total fertility rate:	1.33
 ic
-iceland:      Age structure:	0-14 years: 21.4% (male 32,759/female 31,845) <br />
-iceland:      Area:	total: 103,000 sq km <br />
-iceland:      GDP - per capita (PPP):	$39,400 (2007 est.) <br />
-iceland:      highest point: Hvannadalshnukur 2,110 m (at Vatnajokull glacier) <br />
-iceland:      Life expectancy at birth:	total population: 80.43 years <br />
-iceland:<td>Population:	301,931 (July 2007 est.) <br />
-iceland:      Total fertility rate:	1.91 children born/woman (2007 est.) <br />
+iceland:      0-14: 21.4
+iceland:      Area: 103000
+iceland:      GDP - per capita (PPP):	39400
+iceland:      highest point: Hvannadalshnukur 2110
+iceland:      Life expectancy at birth:	80.43
+iceland:      Population:	301931
+iceland:      Total fertility rate:	1.91
 ei
-ireland:      Age structure:	0-14 years: 20.8% (male 442,664/female 413,556) <br />
-ireland:      Area:	total: 70,280 sq km <br />
-ireland:      GDP - per capita (PPP):	$45,600 (2007 est.) <br />
-ireland:      highest point: Carrauntoohil 1,041 m <br />
-ireland:      Life expectancy at birth:	total population: 77.9 years <br />
-ireland:<td>Population:	4,109,086 (July 2007 est.) <br />
-ireland:      Total fertility rate:	1.86 children born/woman (2007 est.) <br />
+ireland:      0-14: 20.8
+ireland:      Area: 70280
+ireland:      GDP - per capita (PPP):	45600
+ireland:      highest point: Carrauntoohil 1041
+ireland:      Life expectancy at birth:	77.9
+ireland:      Population:	4109086
+ireland:      Total fertility rate:	1.86
 it
-italy:      Age structure:	0-14 years: 13.8% (male 4,121,246/female 3,874,971) <br />
-italy:      Area:	total: 301,230 sq km <br />
-italy:      GDP - per capita (PPP):	$31,000 (2007 est.) <br />
-italy:      highest point: Mont Blanc (Monte Bianco) de Courmayeur 4,748 m (a secondary peak of Mont Blanc) <br />
-italy:      Life expectancy at birth:	total population: 79.94 years <br />
-italy:<td>Population:	58,147,733 (July 2007 est.) <br />
-italy:      Total fertility rate:	1.29 children born/woman (2007 est.) <br />
+italy:      0-14: 13.8
+italy:      Area: 301230
+italy:      GDP - per capita (PPP):	31000
+italy:      highest point: Mont Blanc (Monte Bianco) de Courmayeur 4748
+italy:      Life expectancy at birth:	79.94
+italy:      Population:	58147733
+italy:      Total fertility rate:	1.29
 lg
-latvia:      Age structure:	0-14 years: 13.4% (male 154,077/female 146,825) <br />
-latvia:      Area:	total: 64,589 sq km <br />
-latvia:      GDP - per capita (PPP):	$17,700 (2007 est.) <br />
-latvia:      highest point: Galzina Kalns 312 m <br />
-latvia:      Life expectancy at birth:	total population: 71.88 years <br />
-latvia:<td>Population:	2,245,423 (July 2008 est.) <br />
-latvia:      Total fertility rate:	1.29 children born/woman (2008 est.) <br />
+latvia:      0-14: 13.4
+latvia:      Area: 64589
+latvia:      GDP - per capita (PPP):	17700
+latvia:      highest point: Galzina Kalns 312
+latvia:      Life expectancy at birth:	71.88
+latvia:      Population:	2245423
+latvia:      Total fertility rate:	1.29
 ls
-liechtenstein:      Age structure:	0-14 years: 16.9% (male 2,892/female 2,927) <br />
-liechtenstein:      Area:	total: 160 sq km <br />
-liechtenstein:      GDP - per capita (PPP):	$25,000 (1999 est.) <br />
-liechtenstein:      highest point: Vorder-Grauspitz 2,599 m <br />
-liechtenstein:      Life expectancy at birth:	total population: 79.95 years <br />
-liechtenstein:<td>Population:	34,498 (July 2008 est.) <br />
-liechtenstein:      Total fertility rate:	1.51 children born/woman (2008 est.) <br />
+liechtenstein:      0-14: 16.9
+liechtenstein:      Area: 160
+liechtenstein:      GDP - per capita (PPP):	25000
+liechtenstein:      highest point: Vorder-Grauspitz 2599
+liechtenstein:      Life expectancy at birth:	79.95
+liechtenstein:      Population:	34498
+liechtenstein:      Total fertility rate:	1.51
 lh
-lithuania:      Age structure:	0-14 years: 14.5% (male 264,668/female 250,997) <br />
-lithuania:      Area:	total: 65,200 sq km <br />
-lithuania:      GDP - per capita (PPP):	$16,700 (2007 est.) <br />
-lithuania:      highest point: Juozapines Kalnas 293.6 m <br />
-lithuania:      Life expectancy at birth:	total population: 74.67 years <br />
-lithuania:<td>Population:	3,565,205 (July 2008 est.) <br />
-lithuania:      Total fertility rate:	1.22 children born/woman (2008 est.) <br />
+lithuania:      0-14: 14.5
+lithuania:      Area: 65200
+lithuania:      GDP - per capita (PPP):	16700
+lithuania:      highest point: Juozapines Kalnas 293.6
+lithuania:      Life expectancy at birth:	74.67
+lithuania:      Population:	3565205
+lithuania:      Total fertility rate:	1.22
 lu
-luxembourg:      Age structure:	0-14 years: 18.6% (male 46,729/female 43,889) <br />
-luxembourg:      Area:	total: 2,586 sq km <br />
-luxembourg:      GDP - per capita (PPP):	$80,800 (2007 est.) <br />
-luxembourg:      highest point: Buurgplaatz 559 m <br />
-luxembourg:      Life expectancy at birth:	total population: 79.18 years <br />
-luxembourg:<td>Population:	486,006 (July 2008 est.) <br />
-luxembourg:      Total fertility rate:	1.78 children born/woman (2008 est.) <br />
+luxembourg:      0-14: 18.6
+luxembourg:      Area: 2586
+luxembourg:      GDP - per capita (PPP):	80800
+luxembourg:      highest point: Buurgplaatz 559
+luxembourg:      Life expectancy at birth:	79.18
+luxembourg:      Population:	486006
+luxembourg:      Total fertility rate:	1.78
 mk
-macedonia:      Age structure:	0-14 years: 19.5% (male 207,954/female 193,428) <br />
-macedonia:      Area:	total: 25,333 sq km <br />
-macedonia:      GDP - per capita (PPP):	$8,400 (2007 est.) <br />
-macedonia:      highest point: Golem Korab (Maja e Korabit) 2,764 m <br />
-macedonia:      Life expectancy at birth:	total population: 74.45 years <br />
-macedonia:<td>Population:	2,061,315 (July 2008 est.) <br />
-macedonia:      Total fertility rate:	1.58 children born/woman (2008 est.) <br />
+macedonia:      0-14: 19.5
+macedonia:      Area: 25333
+macedonia:      GDP - per capita (PPP):	8400
+macedonia:      highest point: Golem Korab (Maja e Korabit) 2764
+macedonia:      Life expectancy at birth:	74.45
+macedonia:      Population:	2061315
+macedonia:      Total fertility rate:	1.58
 mt
-malta:      Age structure:	0-14 years: 16.4% (male 33,954/female 32,158) <br />
-malta:      Area:	total: 316 sq km <br />
-malta:      GDP - per capita (PPP):	$23,200 (2007 est.) <br />
-malta:      highest point: Ta'Dmejrek 253 m (near Dingli) <br />
-malta:      Life expectancy at birth:	total population: 79.3 years <br />
-malta:<td>Population:	403,532 (July 2008 est.) <br />
-malta:      Total fertility rate:	1.51 children born/woman (2008 est.) <br />
+malta:      0-14: 16.4
+malta:      Area: 316
+malta:      GDP - per capita (PPP):	23200
+malta:      highest point: Ta'Dmejrek 253
+malta:      Life expectancy at birth:	79.3
+malta:      Population:	403532
+malta:      Total fertility rate:	1.51
 md
-moldova:      Age structure:	0-14 years: 16.3% (male 361,000/female 341,785) <br />
-moldova:      Area:	total: 33,843 sq km <br />
-moldova:      GDP - per capita (PPP):	$2,200 (2007 est.) <br />
-moldova:      highest point: Dealul Balanesti 430 m <br />
-moldova:      Life expectancy at birth:	total population: 70.5 years <br />
-moldova:<td>Population:	4,324,450 (July 2008 est.) <br />
-moldova:      Total fertility rate:	1.26 children born/woman (2008 est.) <br />
+moldova:      0-14: 16.3
+moldova:      Area: 33843
+moldova:      GDP - per capita (PPP):	2200
+moldova:      highest point: Dealul Balanesti 430
+moldova:      Life expectancy at birth:	70.5
+moldova:      Population:	4324450
+moldova:      Total fertility rate:	1.26
 mn
-monaco:      Age structure:	0-14 years: 14.8% (male 2,488/female 2,369) <br />
-monaco:      Area:	total: 1.95 sq km <br />
-monaco:      GDP - per capita (PPP):	$30,000 (2006 est.) <br />
-monaco:      highest point: Mont Agel 140 m <br />
-monaco:      Life expectancy at birth:	total population: 79.96 years <br />
-monaco:<td>Population:	32,796 (July 2008 est.) <br />
-monaco:      Total fertility rate:	1.75 children born/woman (2008 est.) <br />
+monaco:      0-14: 14.8
+monaco:      Area: 1.95
+monaco:      GDP - per capita (PPP):	30000
+monaco:      highest point: Mont Agel 140
+monaco:      Life expectancy at birth:	79.96
+monaco:      Population:	32796
+monaco:      Total fertility rate:	1.75
 nl
-netherlands:      Age structure:	0-14 years: 17.6% (male 1,496,348/female 1,427,297) <br />
-netherlands:      Area:	total: 41,526 sq km <br />
-netherlands:      GDP - per capita (PPP):	$38,600 (2007 est.) <br />
-netherlands:      highest point: Vaalserberg 322 m <br />
-netherlands:      Life expectancy at birth:	total population: 79.25 years <br />
-netherlands:<td>Population:	16,645,313 (July 2008 est.) <br />
-netherlands:      Total fertility rate:	1.66 children born/woman (2008 est.) <br />
+netherlands:      0-14: 17.6
+netherlands:      Area: 41526
+netherlands:      GDP - per capita (PPP):	38600
+netherlands:      highest point: Vaalserberg 322
+netherlands:      Life expectancy at birth:	79.25
+netherlands:      Population:	16645313
+netherlands:      Total fertility rate:	1.66
 no
-norway:      Age structure:	0-14 years: 18.8% (male 446,146/female 426,166) <br />
-norway:      Area:	total: 323,802 sq km <br />
-norway:      GDP - per capita (PPP):	$55,600 (2007 est.) <br />
-norway:      highest point: Galdhopiggen 2,469 m <br />
-norway:      Life expectancy at birth:	total population: 79.81 years <br />
-norway:<td>Population:	4,644,457 (July 2008 est.) <br />
-norway:      Total fertility rate:	1.78 children born/woman (2008 est.) <br />
+norway:      0-14: 18.8
+norway:      Area: 323802
+norway:      GDP - per capita (PPP):	55600
+norway:      highest point: Galdhopiggen 2469
+norway:      Life expectancy at birth:	79.81
+norway:      Population:	4644457
+norway:      Total fertility rate:	1.78
 pl
-poland:      Age structure:	0-14 years: 15.2% (male 3,013,109/female 2,849,977) <br />
-poland:      Area:	total: 312,679 sq km <br />
-poland:      GDP - per capita (PPP):	$16,200 (2007 est.) <br />
-poland:      highest point: Rysy 2,499 m <br />
-poland:      Life expectancy at birth:	total population: 75.41 years <br />
-poland:<td>Population:	38,500,696 (July 2008 est.) <br />
-poland:      Total fertility rate:	1.27 children born/woman (2008 est.) <br />
+poland:      0-14: 15.2
+poland:      Area: 312679
+poland:      GDP - per capita (PPP):	16200
+poland:      highest point: Rysy 2499
+poland:      Life expectancy at birth:	75.41
+poland:      Population:	38500696
+poland:      Total fertility rate:	1.27
 po
-portugal:      Age structure:	0-14 years: 16.4% (male 912,995/female 835,715) <br />
-portugal:      Area:	total: 92,391 sq km <br />
-portugal:      GDP - per capita (PPP):	$21,800 (2007 est.) <br />
-portugal:      highest point: Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2,351 m <br />
-portugal:      Life expectancy at birth:	total population: 78.04 years <br />
-portugal:<td>Population:	10,676,910 (July 2008 est.) <br />
-portugal:      Total fertility rate:	1.49 children born/woman (2008 est.) <br />
+portugal:      0-14: 16.4
+portugal:      Area: 92391
+portugal:      GDP - per capita (PPP):	21800
+portugal:      highest point: Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores 2351
+portugal:      Life expectancy at birth:	78.04
+portugal:      Population:	10676910
+portugal:      Total fertility rate:	1.49
 ro
-romania:      Age structure:	0-14 years: 15.6% (male 1,778,864/female 1,687,659) <br />
-romania:      Area:	total: 237,500 sq km <br />
-romania:      GDP - per capita (PPP):	$11,100 (2007 est.) <br />
-romania:      highest point: Moldoveanu 2,544 m <br />
-romania:      Life expectancy at birth:	total population: 72.18 years <br />
-romania:<td>Population:	22,246,862 (July 2008 est.) <br />
-romania:      Total fertility rate:	1.38 children born/woman (2008 est.) <br />
+romania:      0-14: 15.6
+romania:      Area: 237500
+romania:      GDP - per capita (PPP):	11100
+romania:      highest point: Moldoveanu 2544
+romania:      Life expectancy at birth:	72.18
+romania:      Population:	22246862
+romania:      Total fertility rate:	1.38
 rs
-russia:      Age structure:	0-14 years: 14.6% (male 10,577,858/female 10,033,254) <br />
-russia:      Area:	total: 17,075,200 sq km <br />
-russia:      GDP - per capita (PPP):	$14,800 (2007 est.) <br />
-russia:      highest point: Gora El'brus 5,633 m <br />
-russia:      Life expectancy at birth:	total population: 65.94 years <br />
-russia:<td>Population:	140,702,096 (July 2008 est.) <br />
-russia:      Total fertility rate:	1.4 children born/woman (2008 est.) <br />
-sm
-san-marino:      Age structure:	0-14 years: 16.8% (male 2,608/female 2,430) <br />
-san-marino:      Area:	total: 61.2 sq km <br />
-san-marino:      GDP - per capita (PPP):	$34,100 (2004 est.) <br />
-san-marino:      highest point: Monte Titano 755 m <br />
-san-marino:      Life expectancy at birth:	total population: 81.88 years <br />
-san-marino:<td>Population:	29,973 (July 2008 est.) <br />
-san-marino:      Total fertility rate:	1.35 children born/woman (2008 est.) <br />
+russia:      0-14: 14.6
+russia:      Area: 17075200
+russia:      GDP - per capita (PPP):	14800
+russia:      highest point: Gora El'brus 5633
+russia:      Life expectancy at birth:	65.94
+russia:      Population:	140702096
+russia:      Total fertility rate:	1.4
+s
+san-marino:      0-14: 16.8
+san-marino:      Area: 61.2
+san-marino:      GDP - per capita (PPP):	34100
+san-marino:      highest point: Monte Titano 755
+san-marino:      Life expectancy at birth:	81.88
+san-marino:      Population:	29973
+san-marino:      Total fertility rate:	1.35
 lo
-slovakia:      Age structure:	0-14 years: 16.1% (male 448,083/female 427,643) <br />
-slovakia:      Area:	total: 48,845 sq km <br />
-slovakia:      GDP - per capita (PPP):	$20,200 (2007 est.) <br />
-slovakia:      highest point: Gerlachovsky Stit 2,655 m <br />
-slovakia:      Life expectancy at birth:	total population: 75.17 years <br />
-slovakia:<td>Population:	5,455,407 (July 2008 est.) <br />
-slovakia:      Total fertility rate:	1.34 children born/woman (2008 est.) <br />
+slovakia:      0-14: 16.1
+slovakia:      Area: 48845
+slovakia:      GDP - per capita (PPP):	20200
+slovakia:      highest point: Gerlachovsky Stit 2655
+slovakia:      Life expectancy at birth:	75.17
+slovakia:      Population:	5455407
+slovakia:      Total fertility rate:	1.34
 si
-slovenia:      Age structure:	0-14 years: 13.6% (male 140,686/female 132,778) <br />
-slovenia:      Area:	total: 20,273 sq km <br />
-slovenia:      GDP - per capita (PPP):	$28,000 (2007 est.) <br />
-slovenia:      highest point: Triglav 2,864 m <br />
-slovenia:      Life expectancy at birth:	total population: 76.73 years <br />
-slovenia:<td>Population:	2,007,711 (July 2008 est.) <br />
-slovenia:      Total fertility rate:	1.27 children born/woman (2008 est.) <br />
+slovenia:      0-14: 13.6
+slovenia:      Area: 20273
+slovenia:      GDP - per capita (PPP):	28000
+slovenia:      highest point: Triglav 2864
+slovenia:      Life expectancy at birth:	76.73
+slovenia:      Population:	2007711
+slovenia:      Total fertility rate:	1.27
 sp
-spain:      Age structure:	0-14 years: 14.4% (male 3,011,815/female 2,832,788) <br />
-spain:      Area:	total: 504,782 sq km <br />
-spain:      GDP - per capita (PPP):	$33,600 (2007 est.) <br />
-spain:      highest point: Pico de Teide (Tenerife) on Canary Islands 3,718 m <br />
-spain:      Life expectancy at birth:	total population: 79.92 years <br />
-spain:<td>Population:	40,491,052 (July 2008 est.) <br />
-spain:      Total fertility rate:	1.3 children born/woman (2008 est.) <br />
+spain:      0-14: 14.4
+spain:      Area: 504782
+spain:      GDP - per capita (PPP):	33600
+spain:      highest point: Pico de Teide (Tenerife) on Canary Islands 3718
+spain:      Life expectancy at birth:	79.92
+spain:      Population:	40491052
+spain:      Total fertility rate:	1.3
 sw
-sweden:      Age structure:	0-14 years: 16% (male 745,110/female 703,857) <br />
-sweden:      Area:	total: 449,964 sq km <br />
-sweden:      GDP - per capita (PPP):	$37,500 (2007 est.) <br />
-sweden:      highest point: Kebnekaise 2,111 m <br />
-sweden:      Life expectancy at birth:	total population: 80.74 years <br />
-sweden:<td>Population:	9,045,389 (July 2008 est.) <br />
-sweden:      Total fertility rate:	1.67 children born/woman (2008 est.) <br />
+sweden:      0-14: 16
+sweden:      Area: 449964
+sweden:      GDP - per capita (PPP):	37500
+sweden:      highest point: Kebnekaise 2111
+sweden:      Life expectancy at birth:	80.74
+sweden:      Population:	9045389
+sweden:      Total fertility rate:	1.67
 sz
-switzerland:      Age structure:	0-14 years: 15.8% (male 623,213/female 577,430) <br />
-switzerland:      Area:	total: 41,290 sq km <br />
-switzerland:      GDP - per capita (PPP):	$40,100 (2007 est.) <br />
-switzerland:      highest point: Dufourspitze 4,634 m <br />
-switzerland:      Life expectancy at birth:	total population: 80.74 years <br />
-switzerland:<td>Population:	7,581,520 (July 2008 est.) <br />
-switzerland:      Total fertility rate:	1.44 children born/woman (2008 est.) <br />
+switzerland:      0-14: 15.8
+switzerland:      Area: 41290
+switzerland:      GDP - per capita (PPP):	40100
+switzerland:      highest point: Dufourspitze 4634
+switzerland:      Life expectancy at birth:	80.74
+switzerland:      Population:	7581520
+switzerland:      Total fertility rate:	1.44
 tu
-turkey:      Age structure:	0-14 years: 24.4% (male 8,937,515/female 8,608,375) <br />
-turkey:      Area:	total: 780,580 sq km <br />
-turkey:      GDP - per capita (PPP):	$12,900 (2008 est.) <br />
-turkey:      highest point: Mount Ararat 5,166 m <br />
-turkey:      Life expectancy at birth:	total population: 73.14 years <br />
-turkey:<td>Population:	71,892,808 (July 2008 est.) <br />
-turkey:      Total fertility rate:	1.87 children born/woman (2008 est.) <br />
+turkey:      0-14: 24.4
+turkey:      Area: 780580
+turkey:      GDP - per capita (PPP):	12900
+turkey:      highest point: Mount Ararat 5166
+turkey:      Life expectancy at birth:	73.14
+turkey:      Population:	71892808
+turkey:      Total fertility rate:	1.87
 up
-ukraine:      Age structure:	0-14 years: 13.9% (male 3,277,905/female 3,106,012) <br />
-ukraine:      Area:	total: 603,700 sq km <br />
-ukraine:      GDP - per capita (PPP):	$7,800 (2008 est.) <br />
-ukraine:      highest point: Hora Hoverla 2,061 m <br />
-ukraine:      Life expectancy at birth:	total population: 68.06 years <br />
-ukraine:<td>Population:	45,994,288 (July 2008 est.) <br />
-ukraine:      Total fertility rate:	1.25 children born/woman (2008 est.) <br />
+ukraine:      0-14: 13.9
+ukraine:      Area: 603700
+ukraine:      GDP - per capita (PPP):	7800
+ukraine:      highest point: Hora Hoverla 2061
+ukraine:      Life expectancy at birth:	68.06
+ukraine:      Population:	45994288
+ukraine:      Total fertility rate:	1.25
 uk
-united kingdom:      Age structure:	0-14 years: 16.9% (male 5,287,590/female 5,036,881) <br />
-united kingdom:      Area:	total: 244,820 sq km <br />
-united kingdom:      GDP - per capita (PPP):	$37,400 (2008 est.) <br />
-united kingdom:      highest point: Ben Nevis 1,343 m <br />
-united kingdom:      Life expectancy at birth:	total population: 78.85 years <br />
-united kingdom:<td>Population:	60,943,912 (July 2008 est.) <br />
-united kingdom:      Total fertility rate:	1.66 children born/woman (2008 est.) <br />
+united kingdom:      0-14: 16.9
+united kingdom:      Area: 244820
+united kingdom:      GDP - per capita (PPP):	37400
+united kingdom:      highest point: Ben Nevis 1343
+united kingdom:      Life expectancy at birth:	78.85
+united kingdom:      Population:	60943912
+united kingdom:      Total fertility rate:	1.66
