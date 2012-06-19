@@ -22,36 +22,37 @@ for(i=0;lines[i];i+=8) {
 //countries = [countries[3]];
 
 countries.forEach(function(d) {
+    console.log(d.name);
     var Canvas = require('canvas')
       , Image = Canvas.Image
       , canvas = new Canvas(825,1125)
       , ctx = canvas.getContext('2d');
 
+    // x: 40,785 +/-40 margin
+    // y: 40,1085 +/-40 margin
+    /*
     var template = new Image;
     template.src = fs.readFileSync('design/poker-card.png');
-    console.log(template.width, template.height);
     ctx.drawImage(template, 0, 0, template.width, template.height);
+    */
+    ctx.fillStyle = '#888';
+    ctx.fillRect(0,0,825,1125);
+    ctx.fillStyle = '#fff';
+    ctx.fillRect(40,40,745,1045);
 
+    var map = new Image;
+    map.src = fs.readFileSync('maps/' + d.id + '_large_locator.png');
+    ctx.drawImage(map, 80, 180, 500, 400);
+    
+    ctx.fillStyle = '#000';
+    ctx.fillRect(80,80,1000,100);
+    ctx.fillStyle = '#fff';
+    ctx.font = '60px Impact';
+    ctx.fillText(d.name, 100, 150);
 
     var flag = new Image;
     flag.src = fs.readFileSync('flags/' + d.id + '-lgflag.png');
-    ctx.drawImage(flag, 0, 0, 100, 100);
-    //ctx.drawImage(flag, 0, 0, flag.width, flag.height);
-    //
-    var map = new Image;
-    map.src = fs.readFileSync('maps/' + d.id + '_large_locator.png');
-    ctx.drawImage(map, 100, 200, 400, 400);
-    
-    ctx.font = '30px Impact';
-    ctx.rotate(.1);
-    ctx.fillText("Awesome!", 50, 100);
-    var te = ctx.measureText('Awesome!');
-    ctx.strokeStyle = 'rgba(0,0,0,0.5)';
-    ctx.beginPath();
-    ctx.lineTo(50, 102);
-    ctx.lineTo(50 + te.width, 102);
-    ctx.stroke();
-    console.log(canvas.toBuffer());
+    ctx.drawImage(flag, 450, 160, 300, 300*flag.height/flag.width);
 
     fs.writeFileSync('out/'+d.id+'.png', canvas.toBuffer());
 });
