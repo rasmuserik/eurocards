@@ -134,7 +134,7 @@ georgia:      highest point: Mt'a Shkhara 5201
 georgia:      Life expectancy at birth: 76.3
 georgia:      Population: 4646003
 georgia:      Total fertility rate: 1.42
-ge
+gm
 germany:      0-14: 13.9
 germany:      Area: 357021
 germany:      GDP - per capita (PPP): 34400

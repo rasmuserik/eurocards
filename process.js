@@ -24,8 +24,10 @@ countries.forEach(function(d) {
       , canvas = new Canvas(200,200)
       , ctx = canvas.getContext('2d');
 
-    //var flag = new Canvas.Image;
-    //flag.src = fs.readFileSync('flags/' + d.id + '-lgflag.png');
+    var flag = new Canvas.Image;
+    flag.src = fs.readFileSync('flags/' + d.id + '-lgflag.png');
+    console.log(flag.width, flag.height);
+    ctx.drawImage(flag, 0, 0, 100, 100);
     //ctx.drawImage(flag, 0, 0, flag.width, flag.height);
     
     ctx.font = '30px Impact';
@@ -37,11 +39,12 @@ countries.forEach(function(d) {
     ctx.lineTo(50, 102);
     ctx.lineTo(50 + te.width, 102);
     ctx.stroke();
+    console.log(canvas.toBuffer());
 
-    fs.writeFile('out/'+d.id+'.png', canvas.toBuffer());
+    fs.writeFileSync('out/'+d.id+'.png', canvas.toBuffer());
 });
 
 /* LAZY, just copied from StackOverflow */
 function toTitleCase(str) { return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();}); }
 
-console.log(countries);
+//console.log(countries);
