@@ -1,4 +1,5 @@
 var countries, obj, fs, lines, i, j;
+require('child_process').exec('rm -rf out');
 require('child_process').exec('mkdir out');
 fs = require('fs');
 lines = fs.readFileSync('data.txt', 'utf8').split('\n');
@@ -18,17 +19,28 @@ for(i=0;lines[i];i+=8) {
     obj.fertilityRate = f(7);
     countries.push(obj);
 }
+//countries = [countries[3]];
 
 countries.forEach(function(d) {
     var Canvas = require('canvas')
-      , canvas = new Canvas(200,200)
+      , Image = Canvas.Image
+      , canvas = new Canvas(825,1125)
       , ctx = canvas.getContext('2d');
 
-    var flag = new Canvas.Image;
+    var template = new Image;
+    template.src = fs.readFileSync('design/poker-card.png');
+    console.log(template.width, template.height);
+    ctx.drawImage(template, 0, 0, template.width, template.height);
+
+
+    var flag = new Image;
     flag.src = fs.readFileSync('flags/' + d.id + '-lgflag.png');
-    console.log(flag.width, flag.height);
     ctx.drawImage(flag, 0, 0, 100, 100);
     //ctx.drawImage(flag, 0, 0, flag.width, flag.height);
+    //
+    var map = new Image;
+    map.src = fs.readFileSync('maps/' + d.id + '_large_locator.png');
+    ctx.drawImage(map, 100, 200, 400, 400);
     
     ctx.font = '30px Impact';
     ctx.rotate(.1);
