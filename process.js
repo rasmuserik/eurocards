@@ -19,10 +19,10 @@ for(i=0;lines[i];i+=8) {
     obj.fertilityRate = f(7);
     countries.push(obj);
 }
-//countries = [countries[3]];
+countries = [countries[3]];
 
 countries.forEach(function(d) {
-    console.log(d.name);
+    console.log(d);
     var Canvas = require('canvas')
       , Image = Canvas.Image
       , canvas = new Canvas(825,1125)
@@ -53,6 +53,19 @@ countries.forEach(function(d) {
     var flag = new Image;
     flag.src = fs.readFileSync('flags/' + d.id + '-lgflag.png');
     ctx.drawImage(flag, 450, 160, 300, 300*flag.height/flag.width);
+
+    var basepos = 645;
+    var step = 55;
+    var pos = -1;
+    ctx.fillStyle = '#000';
+    ctx.font = '40px Sans-Serif';
+    ctx.fillText('Population:', 80, basepos + step * ++pos);
+    ctx.fillText('Highest point:', 80, basepos + step * ++pos);
+    ctx.fillText('GDP per person:', 80, basepos + step * ++pos);
+    ctx.fillText('Life expectancy:', 80, basepos + step * ++pos);
+    ctx.fillText('Area per person:', 80, basepos + step * ++pos);
+    ctx.fillText('Young (<15yrs.):', 80, basepos + step * ++pos);
+    ctx.fillText('Children per woman:', 80, basepos + step * ++pos);
 
     fs.writeFileSync('out/'+d.id+'.png', canvas.toBuffer());
 });
