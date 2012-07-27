@@ -48,7 +48,7 @@ countries.forEach(function(d) {
     template.src = fs.readFileSync('design/poker-card.png');
     ctx.drawImage(template, 0, 0, template.width, template.height);
     */
-    ctx.fillStyle = '#888';
+    ctx.fillStyle = '#fff';
     ctx.fillRect(0,0,825,1125);
     ctx.fillStyle = '#fff';
     ctx.fillRect(40,40,745,1045);
@@ -77,25 +77,25 @@ countries.forEach(function(d) {
     ctx.font = '40px Sans-Serif';
     ctx.textAlign = 'left';
 
-    ctx.fillStyle = '#800';
+    ctx.fillStyle = '#000';
     ctx.fillText('Population:', lpos, basepos + step * ++pos);
     ctx.textAlign = 'right';
     ctx.fillText(num(d.population), rpos, basepos + step * pos);
     ctx.textAlign = 'left';
 
-    ctx.fillStyle = '#080';
+    ctx.fillStyle = '#800';
     ctx.fillText('Highest point:', lpos, basepos + step * ++pos);
     ctx.textAlign = 'right';
     ctx.fillText(num(d.highestPoint) + 'm', rpos, basepos + step * pos);
     ctx.textAlign = 'left';
 
-    ctx.fillStyle = '#008';
+    ctx.fillStyle = '#880';
     ctx.fillText('GDP per person:', lpos, basepos + step * ++pos);
     ctx.textAlign = 'right';
     ctx.fillText('$' + num(d.gdp), rpos, basepos + step * pos);
     ctx.textAlign = 'left';
 
-    ctx.fillStyle = '#000';
+    ctx.fillStyle = '#080';
     ctx.fillText('Life expectancy:', lpos, basepos + step * ++pos);
     ctx.textAlign = 'right';
     ctx.fillText(d.lifeExpectancy + '', rpos, basepos + step * pos);
@@ -107,13 +107,13 @@ countries.forEach(function(d) {
     ctx.fillText(num(1000000 * d.area / d.population | 0) + 'm²', rpos, basepos + step * pos);
     ctx.textAlign = 'left';
 
-    ctx.fillStyle = '#808';
+    ctx.fillStyle = '#008';
     ctx.fillText('Young (< 15 years):', lpos, basepos + step * ++pos);
     ctx.textAlign = 'right';
     ctx.fillText(d.children + '%', rpos, basepos + step * pos);
     ctx.textAlign = 'left';
 
-    ctx.fillStyle = '#880';
+    ctx.fillStyle = '#808';
     ctx.fillText('Children per woman:', lpos, basepos + step * ++pos);
     ctx.textAlign = 'right';
     ctx.fillText(d.fertilityRate, rpos, basepos + step * pos);
