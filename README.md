@@ -1,4 +1,4 @@
-# Europa-cards
+# ![logo](https://solsort.com/_logo.png) Europa-cards
 
 Card game, which also teaches geographical features of countries in europe
 
@@ -9,12 +9,12 @@ Content on each card
 - Flag
 - Map
 - Features
-    - Area:.*total: 
+    - Area:.*total*: 
     - highest.point:
     - Population: 
     - GDP.*per.capita.*:
     - Total.fertility.rate:
-    - Life.expectancy.at.birth:.*total.population
+    - Life.expectancy.at.birth:.*total.population*
     - 0-14
     - conventional.short.form
 
